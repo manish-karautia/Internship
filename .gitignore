@@ -1,1 +1,24 @@
-.venv
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and backup
+*.log
+*.bak
+*.swp
+EOF
